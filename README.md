@@ -1,5 +1,5 @@
 # Deep Learning in Computational Mechanics: An Introductory Course (supplementary material)
-- This repository contains the supplementary material of the textbook:
+- This [repository](https://github.com/cmpmech/deep-learning-in-computational-mechanics) contains the supplementary material of the textbook:
 
 ***Deep Learning in Computational Mechanics: An Introductory Course*** (Second Edition), *Leon Herrmann, Moritz Jokeit, Oliver Weeger, and Stefan Kollmannsberger*, Springer 2025, ISBN: TBD, URL: TBD
 
