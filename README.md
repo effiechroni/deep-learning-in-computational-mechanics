@@ -9,9 +9,9 @@
 **TODO**: ask Thomas (To install these packages on your own machine using conda, use the aiJupyter\_environment.yml file.)
 
 ## Status
-- Exercise files: Coming soon
-- Demo code snippets: Coming soon
-- Presentation slides: Coming soon
+- Exercise files: **Available** (except Chapter 8)
+- Demo code snippets: **Available** (except Chapter 7)
+- Presentation slides: **Coming soon**
 
 ## License
 Copyright (c) 2024, Leon Herrmann, Moritz Jokeit, Oliver Weeger, Stefan Kollmannsberger, Thomas Hollowell
@@ -21,4 +21,4 @@ All of the material is licensed under a **Creative Commons Attribution-NonCommer
 
 
 ## Contact
-In case of questions or the discovery of any bugs, please feel free to reach out to **leon_herrmann@yahoo.de**
+In case of questions or the discovery of any bugs, please feel free to reach out to **leon.herrmann@uni-weimar.de**
