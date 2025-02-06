@@ -5,9 +5,6 @@
 
 - The material consists of exercises (as Jupyter notebooks and Python files) described in the book (**exercises**), short demos (as Jupyter notebooks) covered in the book (**demos**), and lecture slides (as PowerPoint and pdf files) (**slides**). 
 
-## Installation
-**TODO**: ask Thomas (To install these packages on your own machine using conda, use the aiJupyter\_environment.yml file.)
-
 ## Status
 - Exercise files: **Available** (except Chapter 8)
 - Demo code snippets: **Available** (except Chapter 7)
